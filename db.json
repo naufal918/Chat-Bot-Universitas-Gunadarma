@@ -1,0 +1,131 @@
+{
+    "intents": [{
+            "tag": "salam",
+            "patterns": [
+                "Hai",
+                "Hi",
+                "Halo",
+                "Selamat Pagi",
+                "Selamat Siang",
+                "Selamat Malam",
+                "Selamat Sore"
+            ],
+            "responses": [
+                "Halo, ada yang bisa saya bantu?",
+                "Halo, selamat datang",
+                "Hai, salam kenal"
+            ]
+        },
+        {
+            "tag": "bye",
+            "patterns": [
+                "Selamat Tinggal",
+                "Dah",
+                "Semoga harimu menyenangkan",
+                "Sampai Jumpa Lagi",
+                "Ok bye"
+            ],
+            "responses": [
+                "Sampai jumpa lagi yaa",
+                "Kalau ada masalah, hubungi aku di instagram @gunadarma ",
+                "Semoga harimu menyenangkan!"
+            ]
+        },
+        {
+            "tag": "makasih",
+            "patterns": [
+                "terimakasih",
+                "makasih",
+                "matu suwun",
+                "makasih ye ",
+                "tengkyu"
+            ],
+            "responses": [
+                "sama sama kak semoga hari mu menyenangkan",
+                "Kalau ada masalah, hubungi aku di instagram @gunadarma ",
+                "Semoga harimu menyenangkan!"
+            ]
+        },
+        {
+            "tag": "nama",
+            "patterns": [
+                "nama kamu siapa?",
+                "namamu siapa?",
+                "siapa sih lo?",
+                "kamu siapa?",
+                "nama?"
+            ],
+            "responses": [
+                "Namaku GundarBot, salam kenal ya!",
+                "Halo, aku GundarBot!",
+                "Kenalin, aku GundarBot!"
+            ]
+        },
+        {
+            "tag": "lokasi_kampus",
+            "patterns": [
+                "kampus nya dimana aja?",
+                "kampus yang gede ada di mana?",
+                "kampus di bekasi di mana aja",
+                "kampus depok ada dimana aja"
+            ],
+            "responses": [
+                "gunadarma ada di salemba,karawaci,depok,bekasi,cengkareng dan TB simatupang",
+                "kampus yang gede ada di salemba,karawaci,depok,bekasi,cengkareng dan TB simatupang",
+                "kampus bekasi ada di J1 & J2 kalimalang, J3 ruko kalimas, J4 Kemang pratama, J5 Klender, dan J6 di cikunir"
+            ]
+        },
+        {
+            "tag": "jurusan",
+            "patterns": [
+                "di gunadarma ada jurusan apa aja",
+                "gundar ada TI?",
+                "gundar ada SI?",
+                "gundar ada psikologi?",
+                "gundar ada manajemen?",
+                "jurusan di gundar apa aja?"
+            ],
+            "responses": [
+                "Di gunadarma ada psikologi,sastra inggris,teknik industri,teknik informatika,teknik elektro,teknik mesin,sistem informasi,sistem komputer,ilmu komputer,manajemen,akuntansi,ilmu ekonomi,arsitektur,teknik sipil,desain interior dan kedokteran"
+            ]
+        },
+        {
+            "tag": "bayaran di gunadarma per semester",
+            "patterns": [
+                "ukt di gunadarma berapa?",
+                "bayaran nya berapa?",
+                "murah ga bayaran semester nya?",
+                "mahal ga bayaran kuliah nya?"
+            ],
+            "responses": [
+                "Di gunadarma kisaran 5-20 juta tergantung jurusan nya,info lebih lanjut bisa datang ke ruang pendaftaran yang ada di kampus ya"
+            ]
+        },
+        {
+            "tag": "nama_rektor",
+            "patterns": [
+                "siapa nama rektor universitas gunadarma",
+                "rektor gundar siapa?",
+                "rektor gundar siapa sih?",
+                "rektor gundar cewe apa cowo? siapa sih?",
+                "rektor UG siapa?"
+            ],
+            "responses": [
+                "Rektor universitas gunadarma adalah ibu Margianti, SE., MM"
+            ]
+        },
+        {
+            "tag": "sosmed_gundar",
+            "patterns": [
+                "sosial media gunadarma apa?",
+                "mana linknya sosmednya?",
+                "minta link dong!",
+                "youtube nya apa?",
+                "dimana urlnya?"
+            ],
+            "responses": [
+                "IG: https://www.gunadarma.ac.id/ YouTube: https://www.youtube.com/@ugtvofficial"
+            ]
+        }
+    ]
+}
